@@ -1,6 +1,4 @@
-Semana 1 - Estudos
 
-Na semana 1 foram realizados estudos, primeiramente focados na área de segurança de informação e scrum, aonde foram apresentadas as boas práticas que permitem manter a confidencialidade, integridade e disponibilidade de dados; e também abordagens ágeis como: o coletivismo e integração. Logo após, foi introduzido o curso de git e github aonde foram abordados temas como: o que é um repositório local e remoto, para quê serve o controle de versionamento de código GIT e o serviço de armazenamento na nuvem do GITHUB, como enviar um projeto salvo em um repositório local para um repositório remoto, etc.
 # 🧠 Semana 1 - Estudos
 
 * Na semana 1 foram realizados estudos, primeiramente focados na área de segurança de informação e scrum, aonde foram apresentadas as boas práticas que permitem manter a confidencialidade, integridade e disponibilidade de dados; e também abordagens ágeis como: o coletivismo e integração.
