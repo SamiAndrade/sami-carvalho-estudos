@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.apresentacao {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+.apresentacao__titulo {
+  margin-bottom: 1em;
+}
+
+.apresentacao__piadas {
+  display: flex;
+  width: 90%;
+  flex-wrap: wrap;
+  gap: 3em;
+  font-size: 14px;
+  justify-content: center;
+}
+
+.apresentacao__piadas p {
+  border: 2px solid black;
+  border-radius: 0.5em;
+  padding: 1em;
+  margin-bottom: 0.5em;
+}
+
+.apresentacao__botao_resposta {
+  padding: 0.5em 1em;
+  border-radius: 1em;
+  font-size: 16px;
+  color: rgb(227, 218, 218);
+  background-color: green;
+  margin-right: 0.5em;
+}
+
+.apresentacao__botao_excluir {
+  padding: 0.5em 1em;
+  border-radius: 0.75em;
+  font-size: 16px;
+  color: rgb(227, 218, 218);
+  background-color: rgb(152, 54, 54);
+}
+
+.apresentacao__inputs {
+  margin-left: 6em;
+}
+
+.apresentacao__inputs_adicionar input {
+  margin-top: 1.5em;
+  margin-left: 1em;
+  padding: 1em 1.5em;
+  border-radius: 1.5em;
+}
+
+.apresentacao__botao_adicionar {
+  margin-left: 1em;
+  padding: 0.75em 1.5em;
+  background-color: greenyellow;
+  border-radius: 0.75em;
+}
