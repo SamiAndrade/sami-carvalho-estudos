@@ -1,6 +1,6 @@
 # 🧠 Semana 6 - Estudos
 
-### - Na semana 5 foram realizados estudos voltados a TailWind e React. Segue abaixo exemplos do que foi aprendido: 
+### - Na semana 6 foram realizados estudos voltados ao TailWind e React. Segue abaixo exemplos do que foi aprendido: 
 
     -> TailWind:
 
