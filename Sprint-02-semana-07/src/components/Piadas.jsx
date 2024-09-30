@@ -53,7 +53,7 @@ const Piadas = () => {
             setPiadas(prev => prev.filter(p => p.id !== id));
         } catch (erro) {
             console.error("Erro ao excluir piada:", erro.message);
-            alert("Ocorreu um erro inesperado ao excluir a piada.");
+            alert("Erro ao excluir piada.");
         } finally {
             setExcluindo(false);
         }
